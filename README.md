@@ -57,6 +57,10 @@ Link to deployed application:
 
 https://sgtratchet.github.io/campground-finder/
 
+Forked Repo link: https://hadleyc15.github.io/campground-finder/
+
 Link to Github Repository:
 
-https://github.com/hadleyc15/campground-finder
+https://github.com/sgtratchet/campground-finder
+
+Forked Repo Link: https://github.com/hadleyc15/campground-finder
