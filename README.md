@@ -59,4 +59,4 @@ https://sgtratchet.github.io/campground-finder/
 
 Link to Github Repository:
 
-https://github.com/sgtratchet/campground-finder
+https://github.com/hadleyc15/campground-finder
