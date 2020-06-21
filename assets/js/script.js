@@ -84,7 +84,6 @@ function campgroundCards(campgroundData) {
 
     for (var i = 0; i < 20; i++) {
         //campName = campgroundData.facilityName;
-        console.log("https://api.openweathermap.org/data/2.5/weather?lat=" + userSelection.resultData[i]["@attributes"].latitude + "&lon=" + userSelection.resultData[i]["@attributes"].longitude + "&units=imperial&appid=" + keys.OPENWEATHER)
         let campsiteDataIndex = i;
         $.ajax({
             url: "https://api.openweathermap.org/data/2.5/weather?lat=" + userSelection.resultData[i]["@attributes"].latitude + "&lon=" + userSelection.resultData[i]["@attributes"].longitude + "&units=imperial&appid=" + keys.OPENWEATHER,
